@@ -21,7 +21,7 @@ A remade version of rsg-trapperplus. Giving the ability for looting all creature
 
 # Installation
 - remove rsg-holding if you have it added
-- remove rsg-trapper if you have it added\
+- remove rsg-trapper if you have it added
 - remove rsg-trapperplus
 - ensure that the dependancies are added and started
 - add rsg-advanced-trapper to your resources folder
