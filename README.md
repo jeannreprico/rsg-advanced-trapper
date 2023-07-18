@@ -32,7 +32,7 @@ A remade version of rsg-trapperplus. Giving the ability for looting all creature
 - add the following to your server.cfg file : ensure rsg-advanced-trapper
 
 ## Credits
-Many thanks to rsg-trapperplus who made the og script converted.
+Many thanks to RSG who made the og script converted.
 Remade this script with the help of fellow RSG community members Boubeur#62 & Sadicius.
 
 #Redwood County RP - Australian RP
