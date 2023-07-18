@@ -1,9 +1,9 @@
 # rsg-advanced-trapper
 A remade version of rsg-trapperplus. Giving the ability for looting all creatures in RedM
-- Seperate pictures for different pelts and levels
+- Separate pictures for different pelts and levels
 - Multiple loot items
 - Configurable loot chance
-- Configureable loot amount
+- Configurable loot amount
 
 # RexshackGaming
 - discord : https://discord.gg/s5uSk56B65
