@@ -682,9 +682,25 @@ AddEventHandler('rsg-advanced-trapper:server:sellcarcass', function()
                     price = price + (Config.GoodCarcassPrice * Player.PlayerData.items[k].amount)
                     Player.Functions.RemoveItem("tooth_boarmuskt", Player.PlayerData.items[k].amount, k)
                     hascarcass = true
+                --other
                 elseif Player.PlayerData.items[k].name == "wool" then 
                     price = price + (Config.GoodCarcassPrice * Player.PlayerData.items[k].amount)
                     Player.Functions.RemoveItem("wool", Player.PlayerData.items[k].amount, k)
+                    hascarcass = true
+                end
+                elseif Player.PlayerData.items[k].name == "claws_beartc" then 
+                    price = price + (Config.GoodCarcassPrice * Player.PlayerData.items[k].amount)
+                    Player.Functions.RemoveItem("claws_beartc", Player.PlayerData.items[k].amount, k)
+                    hascarcass = true
+                end
+                elseif Player.PlayerData.items[k].name == "fiber_woolblack" then 
+                    price = price + (Config.GoodCarcassPrice * Player.PlayerData.items[k].amount)
+                    Player.Functions.RemoveItem("fiber_woolblack", Player.PlayerData.items[k].amount, k)
+                    hascarcass = true
+                end
+                elseif Player.PlayerData.items[k].name == "tail_bull" then 
+                    price = price + (Config.GoodCarcassPrice * Player.PlayerData.items[k].amount)
+                    Player.Functions.RemoveItem("tail_bull", Player.PlayerData.items[k].amount, k)
                     hascarcass = true
                 end
             end
